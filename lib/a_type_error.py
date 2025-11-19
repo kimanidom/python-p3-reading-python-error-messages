@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
+result = 123 + 456
 
-wrong_type = 'abc' + 123
+print(result)
+
